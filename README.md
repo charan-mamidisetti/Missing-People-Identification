@@ -1,2 +1,2 @@
 # Missing-People-Identification
-Capstone
+My Collage Capstone Project
